@@ -1,52 +1,21 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study 
+> Lending money to applicants with a high risk of default is the primary cause of financial loss, commonly referred to as credit loss. Credit loss represents the funds a lender loses when a borrower either fails to repay or absconds with the owed money.
+
+The primary goal is to effectively identify these high-risk loan applicants in order to minimize such loans and thereby reduce credit loss. This case study aims to achieve this by employing Exploratory Data Analysis (EDA) for the identification of these applicants.
+
+Conduct an in-depth analysis to comprehend the key factors or variables that drive loan defaults, namely, the indicators strongly associated with defaults. The insights gained from this analysis can be valuable for the company's portfolio management and risk assessment.
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
-
-<!-- You can include any other section that is pertinent to your problem -->
+Step 1: Data Cleaning 1
+Step 2: Univariate Analysis
+Step 3: Segmented Univariate Analysis
+Step 4: Bivariate/Multivariate Analysis
+Step 5: Results
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+We have at our disposal a substantial dataset of individuals applying for home loans, encompassing critical data fields such as loan amount, annual income, home ownership status, and more. Our primary goal is to conduct a comprehensive analysis to pinpoint the most significant factors that should be meticulously considered before approving loan applications. This analysis is essential in order to minimize the likelihood of loan defaults. 
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by [@ritikbobade] - feel free to contact me!
