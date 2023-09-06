@@ -7,11 +7,11 @@ Conduct an in-depth analysis to comprehend the key factors or variables that dri
 
 
 ## Table of Contents
-Step 1: Data Cleaning 1
-Step 2: Univariate Analysis
-Step 3: Segmented Univariate Analysis
-Step 4: Bivariate/Multivariate Analysis
-Step 5: Results
+- Step 1: Data Cleaning 1
+- Step 2: Univariate Analysis
+- Step 3: Segmented Univariate Analysis
+- Step 4: Bivariate/Multivariate Analysis
+- Step 5: Results
 
 ## General Information
 We have at our disposal a substantial dataset of individuals applying for home loans, encompassing critical data fields such as loan amount, annual income, home ownership status, and more. Our primary goal is to conduct a comprehensive analysis to pinpoint the most significant factors that should be meticulously considered before approving loan applications. This analysis is essential in order to minimize the likelihood of loan defaults. 
